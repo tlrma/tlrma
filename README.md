@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio-181717?style=for-the-badge&logo=github)](https://github.com/tlrma/my-portfolio)
-[![Email](https://img.shields.io/badge/Email-your_email_here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email_here)
+[![Email](https://img.shields.io/badge/Email-your_email_here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onono1141@gmail.com)
 [![Status](https://img.shields.io/badge/Currently-Learning%20and%20Building-0A66C2?style=for-the-badge)](#)
 
 </div>
