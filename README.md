@@ -38,7 +38,7 @@
 
 ## Featured Projects
 
-<table>
+
   <tr>
     <td width="100%">
       <h3>🛴 안전한 전동 킥보드 시스템</h3>
@@ -98,7 +98,6 @@
       </p>
     </td>
   </tr>
-</table>
 
 ---
 
