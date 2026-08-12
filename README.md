@@ -36,7 +36,25 @@
 ---
 
 ## Featured Projects
-
+  <tr>
+    <td width="100%">
+      <h3>📦 무인 분실물 센터</h3>
+      <p>
+        비전 AI가 분실물을 인식·분류하고, Dobot이 창고에 적재하며 TurtleBot이 반환 창구로 운반하는 멀티로봇 협업 분실물 관리 시스템
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dobot-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/TurtleBot-8A2BE2?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 
   <tr>
     <td width="100%">
