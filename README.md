@@ -110,7 +110,7 @@
       </p>
       <p>
         <a href="https://github.com/tlrma/my-portfolio">
-          <img src="https://img.shields.io/badge/Open-Detailed%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+        
         </a>
       </p>
     </td>
