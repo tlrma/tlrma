@@ -50,8 +50,6 @@
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)](https://www.mysql.com/)
 
-### 🎨 Frontend
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)](https://git-scm.com/)
