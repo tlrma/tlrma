@@ -18,13 +18,6 @@
 
 ---
 
-## About Me
-
-- 임베디드 시스템 및 AI에 관심이 많습니다
-- 센서 기반 제어, Computer Vision, ROS, 웹 서비스 구현 경험이 있습니다
-
----
-
 ## 🚀 Skills
 
 ### 💻 Languages
