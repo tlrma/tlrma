@@ -2,7 +2,14 @@
 
 <div align="center">
 
-# 👋 Hi, I'm 시은!
+
+<a href="https://tlrma.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+    <img src="assets/banner-light.png" alt="황시은 · Embedded & Robotics — 포트폴리오 사이트로 이동" width="100%">
+  </picture>
+</a>
 
 🤖 Embedded & Robotics Engineer | 🧠 AI/Computer Vision | 🐧 Linux
 
