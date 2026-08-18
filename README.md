@@ -105,14 +105,6 @@
   <tr>
     <td width="100%">
       <h3>📁 More</h3>
-      <p>
-        더 자세한 프로젝트 설명은 아래 저장소에서 확인할 수 있습니다.
-      </p>
-      <p>
-        <a href="https://github.com/tlrma/my-portfolio">
-        
-        </a>
-      </p>
     </td>
   </tr>
 
