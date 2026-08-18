@@ -11,8 +11,6 @@
   </picture>
 </a>
 
-🤖 Embedded & Robotics Engineer | 🧠 AI/Computer Vision | 🐧 Linux
-
 </div>
 
 <div align="center">
