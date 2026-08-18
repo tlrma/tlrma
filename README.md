@@ -41,8 +41,6 @@
 
 ## Projects
 
-> 아래는 요약입니다. **문제 정의 · 설계 판단 · 트러블슈팅 전문은 [포트폴리오 사이트](https://tlrma.github.io)에 있습니다.**
-
 ### 📦 [멀티로봇 협업 기반 무인 분실물 센터](https://tlrma.github.io/#projects)
 
 비전 AI가 분실물을 인식·분류하고, Dobot이 창고에 적재하며 TurtleBot이 반환 창구로 운반하는 멀티로봇 협업 시스템. 2인 팀에서 **비전 파이프라인 · LLM 매칭 알고리즘 · TurtleBot 자율주행**을 담당했습니다.
