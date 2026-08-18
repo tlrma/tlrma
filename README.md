@@ -8,10 +8,6 @@
 
 <div align="center">
 
-### 👉 [**포트폴리오 사이트 보러가기 — tlrma.github.io**](https://tlrma.github.io)
-
-프로젝트별 설계 판단, 문제 해결 과정, 코드 구조를 정리해 두었습니다.
-
 [![Email](https://img.shields.io/badge/onono1141@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onono1141@gmail.com)
 [![SSAFY](https://img.shields.io/badge/SSAFY%2015th-Robot%20Track-0A66C2?style=for-the-badge)](https://tlrma.github.io)
 
