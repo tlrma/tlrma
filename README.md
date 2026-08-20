@@ -15,8 +15,6 @@
 
 <div align="center">
 
-**센서에서 올라온 값이 제어 신호가 되기까지의 모든 층을 다룹니다.**
-
 [![Email](https://img.shields.io/badge/sieunhwg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sieunhwg@gmail.com)
 [![SSAFY](https://img.shields.io/badge/SSAFY%2015th-Embedded%20Robot%20Track-0A66C2?style=for-the-badge)](https://tlrma.github.io)
 
