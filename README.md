@@ -15,8 +15,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/onono1141@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onono1141@gmail.com)
-[![SSAFY](https://img.shields.io/badge/SSAFY%2015th-Robot%20Track%20in%20Progress-0A66C2?style=for-the-badge)](https://github.com/tlrma/my-portfolio)
+**센서에서 올라온 값이 제어 신호가 되기까지의 모든 층을 다룹니다.**
+
+[![Email](https://img.shields.io/badge/sieunhwg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sieunhwg@gmail.com)
+[![SSAFY](https://img.shields.io/badge/SSAFY%2015th-Embedded%20Robot%20Track-0A66C2?style=for-the-badge)](https://tlrma.github.io)
 
 </div>
 
@@ -42,6 +44,8 @@
 ![PX4](https://img.shields.io/badge/PX4-6E44FF?style=flat)
 ![ATmega128](https://img.shields.io/badge/ATmega128-333333?style=flat)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white)
+![UART](https://img.shields.io/badge/UART-6F42C1?style=flat)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ### 🧠 AI / Computer Vision
@@ -59,7 +63,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)](https://www.mysql.com/)
 
 ### 🎨 Frontend
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -77,16 +80,16 @@
 ---
 
 ## Activities
-- **SAMSUNG SW AI ACADEMY FOR YOUTH 15기 로봇 트랙** | 2026.01 ~
+- **SAMSUNG SW·AI ACADEMY FOR YOUTH 15기 임베디드 로봇 트랙** | 2026.01 ~
 - **NCOSS 서포터즈** | 2024.03 ~ 2024.08
-- **한국장학재단 대학생 재능봉사 캠프** | 2024.02.12 ~ 2024.02.15
+- **한국장학재단 대학생 재능봉사 캠프** | 2024.02.13 ~ 2024.02.16
 - **소모임 C언어 세미나** | 2021.09 ~ 2023.12
 
 ---
 
 ## Contact
 
-- Email: `onono1141@gmail.com`
+- Email: `sieunhwg@gmail.com`
 - GitHub: `https://github.com/tlrma`
 
 <!-- 필요하면 아래 항목을 추가하세요 -->
