@@ -5,9 +5,9 @@
 
 <a href="https://tlrma.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img src="assets/banner-light.png" alt="황시은 · Embedded & Robotics — 포트폴리오 사이트로 이동" width="100%">
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
+    <img src="assets/banner-light.gif" alt="황시은 · Embedded & Robotics" width="100%">
   </picture>
 </a>
 
