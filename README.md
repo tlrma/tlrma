@@ -28,18 +28,12 @@
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ### 🤖 Robotics & Embedded
 [![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)](https://www.ros.org/)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)](https://docs.ros.org/)
-![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat)
-![SLAM Toolbox](https://img.shields.io/badge/SLAM__Toolbox-22314E?style=flat)
-![AMCL](https://img.shields.io/badge/AMCL-22314E?style=flat)
 ![MAVROS](https://img.shields.io/badge/MAVROS-6E44FF?style=flat)
 ![MAVLink](https://img.shields.io/badge/MAVLink-6E44FF?style=flat)
-![PX4](https://img.shields.io/badge/PX4-6E44FF?style=flat)
 ![ATmega128](https://img.shields.io/badge/ATmega128-333333?style=flat)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white)
